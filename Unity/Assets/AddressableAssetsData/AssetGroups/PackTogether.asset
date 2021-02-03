@@ -1,0 +1,353 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackTogether
+  m_EditorClassIdentifier: 
+  m_GroupName: PackTogether
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eb25f791c6c98a5459d4c61b7ef755fb
+  m_SerializeEntries:
+  - m_GUID: 0f3540faabf2b7e4c83e81cb7ba6a096
+    m_Address: BuffConfig.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: eaf0ff3a221b5cd418a279d567fb5701
+    m_Address: CellConfig.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f6e090c9036c17f44b2e9dd29c35a919
+    m_Address: EssentialShape.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 78f3a209a7b81ec46a196b52eea7e541
+    m_Address: GlobalProto.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9cc25e3488510cf408bbfa30e83096d0
+    m_Address: SpecialEle.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c245c7dda13b3ad43b2278925e922899
+    m_Address: UnitConfig.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ae44b218243cfc347af99a6875e9e11c
+    m_Address: Hotfix.dll.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Code
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: dd08ff64f788e7a4ba0f918632ff8d0f
+    m_Address: Hotfix.pdb.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Code
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f267342367b9a6e4fbe8cd5a23654599
+    m_Address: SoundPrefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 8476b0f2af55471418bf0808b65ab7f0
+    m_Address: CellBG2D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 180b129b3449cf94ab3d823e99bab01a
+    m_Address: ClassicCell2D_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 949c538f3cde6884cbb72ac888c06776
+    m_Address: ClassicCell2D_10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 684ce9c03e343654381736745f3b6d13
+    m_Address: ClassicCell2D_11.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e0db36ce7c208cc4cb6153298dfa052c
+    m_Address: ClassicCell2D_12.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0ccb18504cfa36e4daca962a4e4d8eaf
+    m_Address: ClassicCell2D_13.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1b459b93323970a44a5f860d4d43366e
+    m_Address: ClassicCell2D_14.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 823517125ddf60f4a98b508e53041bae
+    m_Address: ClassicCell2D_15.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 66f2f12f984fb9940a83e1644fceb180
+    m_Address: ClassicCell2D_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 25e520dba56776e459880607fd35bf1f
+    m_Address: ClassicCell2D_3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9e1614516a6678a4f85582eec358b4ae
+    m_Address: ClassicCell2D_4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c87714db5402f56409ac5de9315e1f84
+    m_Address: ClassicCell2D_5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c48b343b0bac4847b614dfa45639628
+    m_Address: ClassicCell2D_6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9f0fc3bdd0e6fe84ba5aa5d841f886ea
+    m_Address: ClassicCell2D_7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c5130e1793d7eee448648aa8767ad409
+    m_Address: ClassicCell2D_8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 341ac598953c22f419288453b6f6ddc1
+    m_Address: ClassicCell2D_9.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: a03dad91caf8a6a48912a4557710814a
+    m_Address: ClassicGame2D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 7c4d9521c8816ad489428b42c13cb9a1
+    m_Address: Shape2D.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: e3e1fc3c7f506534bad2547e0831e50c
+    m_Address: Home.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ea5600f7d7d61a5428f6cf38163e53a2
+    m_Address: HomePlayButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6d1bcc86794d5884fb759ba98214ad53
+    m_Address: GameUI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 1ef0a68dad9ad1d42ad3088eb5904eac
+    m_Address: UIManager.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9a8f05fa42e7e76418df798c35c2be12
+    m_Address: FailDialog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 84bfd095c20b57a4ab715ffeb1c2d430
+    m_Address: WinDialog.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ui
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: de352475b739de24cbefaf76c124db2e
+    m_Address: ToLevel1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 6430ca16c3b644943b065031c4f3e8e0
+    m_Address: EssentialShapePool.txt
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Config
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 2856465c39104124d81a5c059d4cea72
+    m_Address: ToNextLevel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 3397882916ae8a9478cc507fbe9506d8
+    m_Address: ClassicCell2D_Bomb.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 40cab45d0dd81864791702db8dba98ec
+    m_Address: ClassicCell2D_61.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9d664471f823e42458b95c1e1cb57edd
+    m_Address: ClassicCell2D_62.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: bc413ee6fa19c50468c2af48df727c0d
+    m_Address: ClassicCell2D_63.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b9588c33e15b02646b1b5ef06091ab23
+    m_Address: ClassicCell2D_64.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - prefab
+    - A
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 436d1b73b3e630d40836c84c011235f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5965d20a15214ef47ba24b1eab3a91c6, type: 2}
+    - {fileID: 11400000, guid: 3e56cd8bedcde814cb2016b5a2224865, type: 2}

@@ -1,0 +1,16 @@
+{"Id":1,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":2,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":3,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":4,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":5,"Layer":1,"needCube":0,"canDispel":0,"dispelAnimTime":0.5,"dispelType":0,"dispeldown":0}
+{"Id":6,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":7,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":2,"dispeldown":0}
+{"Id":8,"Layer":3,"needCube":1,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":9,"Layer":4,"needCube":1,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":1}
+{"Id":10,"Layer":4,"needCube":1,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":1}
+{"Id":11,"Layer":3,"needCube":1,"canDispel":1,"dispelAnimTime":0.5,"dispelType":2,"dispeldown":0}
+{"Id":12,"Layer":3,"needCube":0,"canDispel":0,"dispelAnimTime":0.5,"dispelType":3,"dispeldown":0}
+{"Id":13,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":2,"dispeldown":0}
+{"Id":14,"Layer":2,"needCube":0,"canDispel":0,"dispelAnimTime":0.5,"dispelType":0,"dispeldown":0}
+{"Id":15,"Layer":2,"needCube":0,"canDispel":1,"dispelAnimTime":0.5,"dispelType":1,"dispeldown":0}
+{"Id":106,"Layer":2,"needCube":0,"canDispel":0,"dispelAnimTime":0.5,"dispelType":0,"dispeldown":0}
